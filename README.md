@@ -96,21 +96,9 @@ This project features a basic yet secure user authentication system using PHP an
 If your project folder is named `my_php_project` and you want to run `index.php`, the URL will be:
 
 
-## Samples of the project
+## Demo 
 
-* Incorrect username and pass
-
-  ![username and pass](https://github.com/user-attachments/assets/34c91ea6-03d5-4e88-9c48-4d52f2183d50)
-
-* Username Required
- ![username_req](https://github.com/user-attachments/assets/20430cc1-1d8a-4e0e-bc99-897b6cee85c4)
-
-* Password Required
-  ![password_req](https://github.com/user-attachments/assets/18440219-ed1e-4812-90fc-2a5ee6b23826)
-
-* Login Successful
-![Welcome Page](https://github.com/user-attachments/assets/4975ba9a-1307-4b60-beef-81e19d7f76b6)
-
+https://github.com/user-attachments/assets/9226ce40-840c-46ab-87d2-28d35389f402
 
 
 
