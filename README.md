@@ -1,10 +1,10 @@
 # PHP Login System
 
-A simple and secure PHP login system.
+Welcome to the PHP Secure Login System! This project showcases a robust, secure user authentication system developed during an internship at RiseUp Labs.
 
 ## Project Information
 
-This project was developed as part of an internship at RiseUp Labs.
+This project features a basic yet secure user authentication system using PHP and MySQL. It's packed with everything you need to manage user sessions securely.
 
 ## Features
 
