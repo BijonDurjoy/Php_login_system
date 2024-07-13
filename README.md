@@ -12,7 +12,7 @@ This project features a basic yet secure user authentication system using PHP an
 - User login
 - Password validation
 - Session management
-- Desplay error messages
+- Display error messages
 
 ## Requirements
 
